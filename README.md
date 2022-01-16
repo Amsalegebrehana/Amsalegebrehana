@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Flutter Project
+- 🔭 I’m currently working on Blockchain Project
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on React based websites
 - 📫 How to reach me: amsalegebrehana@gmail.com
