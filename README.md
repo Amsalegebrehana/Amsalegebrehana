@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Blockchain Project
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on React based websites
-- 📫 How to reach me: amsalegebrehana@gmail.com
-- 😄 Pronouns: She
+- 🔭 I’m currently working on Full stack websites
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate any challenging projects
+- 📫 How to reach me: se.amsale.gebrehana@gmail.com or amsalegebrehana@gmail.com
+- 😄 Pronouns: She / her
 - ⚡ Fun fact: 😄 
 
 <!--
